@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1394659372 source:c:\users\user\desktop\spring '14\c++_material\hw2\given_maze(2)\maze.cpp
+	"maze.h"
+	<sstream>
+
+1394659195 c:\users\user\desktop\spring '14\c++_material\hw2\given_maze(2)\maze.h
+	<iostream>
+	<fstream>
+
+1395066021 source:c:\users\user\desktop\spring '14\c++_material\hw2\comp_maze\comp_main.cpp
+	"maze.h"
+	<iostream>
+	<vector>
+
+1394659195 c:\users\user\desktop\spring '14\c++_material\hw2\comp_maze\maze.h
+	<iostream>
+	<fstream>
+
+1395006283 source:c:\users\user\desktop\spring '14\c++_material\hw2\comp_maze\computer.cpp
+	"maze.h"
+
